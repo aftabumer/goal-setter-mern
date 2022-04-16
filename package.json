@@ -1,7 +1,7 @@
 {
   "name": "mern-practice",
   "version": "1.0.0",
-  "description": "Goalssetter app for mern practices",
+  "description": "Goalsetter app for mern practices",
   "main": "server.js",
   "scripts": {
     "start": "node backend/server.js",
